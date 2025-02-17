@@ -125,7 +125,7 @@ public class Ledger {
 
     /**
      *
-     *  Task 1: Fill in the method checkLedgerCanBeDeducted()
+     *  Task 2.1: Fill in the method checkLedgerCanBeDeducted()
      *          It has been commented out so that the code compiles.
      *
      * Check all items in a ledger can be deducted from the current one
@@ -143,7 +143,7 @@ public class Ledger {
 
     /**
      *
-     *  Task 2: Fill in the method checkUALCanBeDeducted
+     *  Task 2.2: Fill in the method checkUALCanBeDeducted
      *          It has been commented out so that the code compiles.
      *
      *  It checks that a list of user amounts can be deducted from the
@@ -163,7 +163,7 @@ public class Ledger {
     */
 
     /**
-     *  Task 3: Fill in the methods subtractUAL and  addUAL.
+     *  Task 2.3: Fill in the methods subtractUAL and  addUAL.
      *
      *   Subtract a list of user amounts (UAL) from the ledger
      *
@@ -188,7 +188,7 @@ public class Ledger {
 
     /**
      *
-     *  Task 4: Fill in the method checkTransactionValid
+     *  Task 2.4: Fill in the method checkTransactionValid
      *          It has been commented out so that the code compiles.
      *
      * Check a transaction is valid:
@@ -204,7 +204,7 @@ public class Ledger {
 
     /**
      *
-     *  Task 5: Fill in the method processTransaction
+     *  Task 2.5: Fill in the method processTransaction
      *
      * Process a transaction
      *    by first deducting all the inputs
@@ -231,7 +231,7 @@ public class Ledger {
 
 
     /**
-     *  Task 6: Fill in the testcases as described in the labsheet
+     *  Task 2.6: Fill in the testcases as described in the labsheet
      *
      * Testcase
      */
